@@ -1,21 +1,15 @@
 <template>
   <div>
-    <!-- As a heading -->
-    <b-navbar variant="faded" type="light">
-    <b-navbar-toggle target="nav-text-collapse"></b-navbar-toggle>
+    <b-navbar toggleable="lg" type="light" variant="faded">
       <b-navbar-brand tag="h1" class="mb-0" to="/">NM</b-navbar-brand>
 
-        <b-navbar-nav class="ml-auto">
-            <b-nav-text>Navbar text</b-nav-text>
-            <b-nav-text>Navbar text</b-nav-text>
-            <b-nav-text>Navbar text</b-nav-text>
-        </b-navbar-nav>
-
-      <b-collapse id="nav-text-collapse" is-nav>
-        <b-navbar-nav right>
-          <b-nav-text>Navbar text</b-nav-text>
-        </b-navbar-nav>
-      </b-collapse>
+      <b-navbar-nav class="ml-auto">
+        <b-nav-item>Resume</b-nav-item>
+        <b-nav-item>Blog</b-nav-item>
+        <b-nav-item>Notes</b-nav-item>
+        <b-nav-item>Graph</b-nav-item>
+        <b-nav-item>About</b-nav-item>
+      </b-navbar-nav>
     </b-navbar>
   </div>
 </template>
