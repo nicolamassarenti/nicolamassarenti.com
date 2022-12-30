@@ -13,13 +13,18 @@ categories: ["about"]
 
 lightgallery: true
 
+share:
+  enable: false
+code:
+  copy: true
+  maxShownLines: 50
 math:
   enable: true
 ---
 
 ![Nicola Massarenti](/images/NicolaMassarenti.jpg " ")
 
-> I am a **Machine Learning** Engineer with **experience** in **MLOps**, **solution architecture** design and **software development**. I am passionate about building products and MVPs that solve real-world problems.
+> I am a **Machine Learning** Engineer with **experience** in **MLOps**, **solution architecture** design, **data engineering** and **software development**. I am passionate about building products and MVPs that solve real-world problems.
 
 
 I have experience in **consulting** companies as well as in **product** companies. I have delivered projects to customers in the *edge AI*, *energy*, *fashion*, *banking* and *retail* industries.

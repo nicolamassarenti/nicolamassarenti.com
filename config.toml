@@ -41,24 +41,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [[menu.main]]
     weight = 1
     identifier = "services"
-    # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Services"
     url = "/services/"
-    # title will be shown when you hover on this menu link
     title = "The services I provide"
   [[menu.main]]
     weight = 2
     identifier = "blog"
-    # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Blog"
     url = "/blog/"
-    # title will be shown when you hover on this menu link
     title = "The blog"
   [[menu.main]]
     weight = 3
@@ -71,7 +65,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 [params]
   # site default theme ["auto", "light", "dark"]
-  defaultTheme = "auto"
+  defaultTheme = "dark"
   # public git repo url only then enableGitInfo is true
   gitRepo = "https://github.com/nicolamassarenti"
   #  which hash function used for SRI, when empty, no SRI is used
@@ -89,7 +83,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Header config
   [params.header]
     # desktop header mode ["fixed", "normal", "auto"]
-    desktopMode = "fixed"
+    desktopMode = "auto"
     # mobile header mode ["fixed", "normal", "auto"]
     mobileMode = "auto"
     #  Header title config
@@ -210,13 +204,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "https://github.com/nicolamassarenti"
-    Linkedin = "https://www.linkedin.com/in/nicola-massarenti/"
+    GitHub = "nicolamassarenti"
+    Linkedin = "nicola-massarenti/?locale=en_US"
     Twitter = ""
     Instagram = ""
     Facebook = ""
     Telegram = "@nicolamassarenti"
-    Medium = "https://medium.com/@nicola-massarenti"
+    Medium = "@nicola-massarenti"
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
@@ -275,7 +269,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Discord = ""
     DiscordInvite = ""
     Lichess = ""
-    ORCID = "https://orcid.org/0000-0002-8882-4252"
+    ORCID = "0000-0002-8882-4252"
     Pleroma = ""
     Kaggle = ""
     MediaWiki= ""

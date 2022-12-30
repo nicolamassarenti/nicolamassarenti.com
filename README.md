@@ -14,4 +14,3 @@ This repository  contains the source code of my personal website, which is avail
 3. Run `git submodule update --init --recursive` in the root folder of the repository to download the theme.
 4. Run `hugo server` in the root folder of the repository to start the local server.
 5. Open [http://localhost:1313](http://localhost:1313) in your browser.
-
