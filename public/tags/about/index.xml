@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>about - Tag - Nicola Massarenti</title>
+        <link>https://nicolamassarenti.com/tags/about/</link>
+        <description>about - Tag - Nicola Massarenti</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nicola.massarenti@gmail.com (Nicola Massarenti)</managingEditor>
+            <webMaster>nicola.massarenti@gmail.com (Nicola Massarenti)</webMaster><lastBuildDate>Thu, 29 Dec 2022 13:00:00 &#43;0100</lastBuildDate><atom:link href="https://nicolamassarenti.com/tags/about/" rel="self" type="application/rss+xml" /><item>
+    <title>About Nicola Massarenti</title>
+    <link>https://nicolamassarenti.com/about/</link>
+    <pubDate>Thu, 29 Dec 2022 13:00:00 &#43;0100</pubDate>
+    <author>Nicola Massarenti</author>
+    <guid>https://nicolamassarenti.com/about/</guid>
+    <description><![CDATA[I am a Machine Learning Engineer with experience in MLOps, solution architecture design, data engineering and software development. I am passionate about building products and MVPs that solve real-world problems.
+I have experience in consulting companies as well as in product companies. I have delivered projects to customers in the edge AI, energy, fashion, banking and retail industries.
+I have experience with Cloud-based development (GCP, AWS) as well as on-premises.]]></description>
+</item>
+</channel>
+</rss>

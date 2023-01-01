@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>blog - Tag - Nicola Massarenti</title>
+        <link>https://nicolamassarenti.com/tags/blog/</link>
+        <description>blog - Tag - Nicola Massarenti</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nicola.massarenti@gmail.com (Nicola Massarenti)</managingEditor>
+            <webMaster>nicola.massarenti@gmail.com (Nicola Massarenti)</webMaster><lastBuildDate>Sun, 01 Jan 2023 13:00:00 &#43;0100</lastBuildDate><atom:link href="https://nicolamassarenti.com/tags/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>Blog</title>
+    <link>https://nicolamassarenti.com/blog/</link>
+    <pubDate>Sun, 01 Jan 2023 13:00:00 &#43;0100</pubDate>
+    <author>Nicola Massarenti</author>
+    <guid>https://nicolamassarenti.com/blog/</guid>
+    <description><![CDATA[ This is the blog section of my website. Here you can find my latest posts.
+First post coming soon 🤓 ]]></description>
+</item>
+</channel>
+</rss>
