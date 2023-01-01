@@ -40,14 +40,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [menu]
   [[menu.main]]
     weight = 1
-    identifier = "services"
-    pre = ""
-    post = ""
-    name = "Services"
-    url = "/services/"
-    title = "The services I provide"
-  [[menu.main]]
-    weight = 2
     identifier = "blog"
     pre = ""
     post = ""
@@ -55,7 +47,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/blog/"
     title = "The blog"
   [[menu.main]]
-    weight = 3
+    weight = 2
     identifier = "about"
     pre = ""
     post = ""
@@ -186,7 +178,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Nicola Massarenti"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Freelance ML Engineer, Data and Solution Architect."
+      subtitle = "Freelance AI/ML Engineer"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
