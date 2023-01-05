@@ -1,4 +1,4 @@
-baseURL = "https://nicolamassarenti.github.io/"
+baseURL = "https://nicolamassarenti.com/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -59,7 +59,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "dark"
   # public git repo url only then enableGitInfo is true
-  gitRepo = "https://github.com/nicolamassarenti"
+  gitRepo = "https://github.com/nicolamassarenti/nicolamassarenti.com"
   #  which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
@@ -490,9 +490,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  Site SEO config
   [params.seo]
     # image URL
-    image = ""
+    image = "https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.com/main/assets/images/NicolaMassarenti.jpg"
     # thumbnail URL
-    thumbnailUrl = ""
+    thumbnailUrl = "https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.com/main/assets/images/NicolaMassarenti.jpg"
 
   #  Analytics config
   [params.analytics]
