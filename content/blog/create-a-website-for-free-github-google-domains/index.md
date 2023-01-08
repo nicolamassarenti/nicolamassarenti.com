@@ -22,7 +22,6 @@ math:
   enable: true
 ---
 
-# How to create a website for Free using GitHub Pages and Google Domain
 
 It's early 2023, I've resigned from my full-time well-paid job to start a new journey as a freelancer. The first thing to do is to open a website: something that allows me to share thoughts, projects, blog posts and to be a reference for my clients.
 
