@@ -43,7 +43,7 @@ overwhelmed by the options. Just to name a few, you'll have to choose among:
 * Create a static site
 * Create a dynamic site
   
-![](which-path.png "")
+![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/create-a-website-for-free-github-google-domains/which-path.png "")
 
 
 At the beginning I was considering developing the website with [[Vue.js]], which is easy to use and has an active community. I already know it a bit: in the past I created a few dashboards (with vue.js and bootstrap), some login pages, some upload pages. However, it would have been too much of an effort. It would have required a few days of coding, my design (colors, font, etc) would have been poor and, most importantly, there was the risk of falling into the rabbit hole of learning. I couldn't take this effort: I needed a website as soon as possible.
@@ -894,11 +894,11 @@ First of all, you have to enable GitHub pages for your profile by going on your 
 
 Now it's time to move to Google Domains and click on *Manage* to the website you want to use as a custom domain.
 
-![](google-domains-1.png "")
+![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/create-a-website-for-free-github-google-domains/domains-1.png "")
 
 Then, add the Host Name records as shown in the picture below.
 
-![](google-domains-2.png "")
+![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/create-a-website-for-free-github-google-domains/domains-2.png "")
 
 ## Conclusions
 
