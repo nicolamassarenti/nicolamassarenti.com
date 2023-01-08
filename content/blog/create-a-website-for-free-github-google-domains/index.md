@@ -20,22 +20,23 @@ code:
   maxShownLines: 50
 math:
   enable: true
+comment:
+  enable: true
 ---
 
+It's early 2023, and I've resigned from my full-time well-paid job to start a new journey as a freelancer. The first thing to do is to open a website that allows me to share thoughts, projects, and blog posts and be a reference for my clients.
 
-It's early 2023, I've resigned from my full-time well-paid job to start a new journey as a freelancer. The first thing to do is to open a website: something that allows me to share thoughts, projects, blog posts and to be a reference for my clients.
-
-There are a tons of options. However, I must keep into account that:
+There are tons of options. I must keep into account that:
 * I have very little time available
 * I have limited knowledge of front-end technologies
 * I need a personal website deployed as soon as possible
 
-In the following, I'll bring you in the journey of deploying a no cost, minimal effort and blog friendly website on a custom domain (in my case, it's [nicolamassarenti.com](https://nicolamassarenti.com/)).
+In the next sections I'll bring you on the journey of deploying a no-cost, minimal-effort and blog-friendly website on a custom domain (in my case, it's [nicolamassarenti.com](https://nicolamassarenti.com/).
 
 ## Technologies
 
 If you're like me and if you're not a front-end/full-stack developer you'll be 
-overwhelmed by the options. Just to name a few, you'll have to choose among:
+overwhelmed by the options. To name a few, you'll have to choose among:
 
 * Spend time and learn a new technology
 * Use a no-code platform
@@ -44,18 +45,17 @@ overwhelmed by the options. Just to name a few, you'll have to choose among:
   
 ![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/create-a-website-for-free-github-google-domains/which-path.png "")
 
-
-At the beginning I was considering developing the website with [[Vue.js]], which is easy to use and has an active community. I already know it a bit: in the past I created a few dashboards (with vue.js and bootstrap), some login pages, some upload pages. However, it would have been too much of an effort. It would have required a few days of coding, my design (colors, font, etc) would have been poor and, most importantly, there was the risk of falling into the rabbit hole of learning. I couldn't take this effort: I needed a website as soon as possible.
-On the other side, there was React, a popular framework that has a steep learning curve. It may have been a good choice, but again, no time. I had to move on.
+In the beginning, I was considering developing the website with [[Vue.js]], which is easy to use and has an active community. I already know it a bit: in the past, I created a few dashboards (with vue.js and bootstrap), some login pages, and some upload pages. It would have been too much of an effort. It would have required a few days of coding, my design (colours, font, etc) would have been poor and, most importantly, there was the risk of falling into the rabbit hole of learning. I couldn't take this effort: I needed a website as soon as possible.
+On the other side, there was React, a popular framework with a steep learning curve. It may have been a good choice, but again, no time. I had to move on.
 
 The second option was to use some no-code platforms such as [Squarespace](www.squarespace.com) or [Wix](wix.com), which have the following drawbacks:
 * they're not free
 * I would be limited to the design they offer... Yes, I know, there are A LOT of templates.. But hey, I am a developer, and I want to have freedom ;) 
 * I would be dependent forever on a specific vendor
 
-So, I ended up choosing the third option: building a website using a framework for static websites. After some googling I stumbled upon [[hugo]], which provides many themes, supports Markdown and content organization through the use of taxonomies (e.g., categories, tags). One of the coolest theme I stumbled upon is [PaperMod](https://github.com/adityatelange/hugo-PaperMod), a minimal theme suited for a blog. However, the documentation wasn't great and it didn't seem straightforward to modify the homepage.
+So, I ended up choosing the third option: building a website using a framework for static websites. After some googling I stumbled upon [[hugo]], which provides many themes, and supports Markdown and content organization through the use of taxonomies (e.g., categories, tags). One of the coolest themes I stumbled upon is [PaperMod](https://github.com/adityatelange/hugo-PaperMod), a minimal theme suited for a blog. The documentation wasn't great and it didn't seem straightforward to change the homepage.
 
-So I did a deeper search and came across [LoveIt](https://hugoloveit.com/), a theme quite similar to PaperMod, with a better documentation, with recent commits and with an easy way of customizing the home page.
+So I did a deeper search and came across [LoveIt](https://hugoloveit.com/), a theme similar to PaperMod, with better documentation, recent commits and an easy way of customizing the home page.
 
 Once I chose the website, it was time for the interesting part: **developing**.
 
