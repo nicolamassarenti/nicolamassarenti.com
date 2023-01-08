@@ -1,5 +1,5 @@
 ---
-title: "Create a dev website for free"
+title: "How to create a website for Free using GitHub Pages and Google Domain"
 date: 2023-01-08T13:00:00+01:00
 lastmod: 2023-01-08T13:00:00+01:00
 draft: false
