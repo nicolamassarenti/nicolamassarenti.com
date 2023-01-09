@@ -35,7 +35,7 @@ In the next sections I'll bring you on the journey of deploying a no-cost, minim
 
 ## Technologies
 
-If you're like me and if you're not a front-end/full-stack developer you'll be 
+If you're like me and not a front-end/full-stack developer you'll be 
 overwhelmed by the options. To name a few, you'll have to choose among:
 
 * Spend time and learn a new technology
@@ -76,7 +76,7 @@ git submodule add https://github.com/dillonzq/LoveIt.git themes/LoveIt
 ```
 
 ## Customization
-The configurations are stored in the file `config.toml`. The content of my website is the following:
+The configurations are stored in the file `config.toml`. My configurations are the following:
 
 ```toml
 baseURL = "https://nicolamassarenti.com/"
@@ -693,7 +693,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 ```
 
 ### Favicons
-I used [this]() picture and generated the different formats using [realfavicongenerator](https://realfavicongenerator.net/) . 
+I used [this](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/assets/images/NicolaMassarenti.jpg) picture and generated the different formats using [realfavicongenerator](https://realfavicongenerator.net/) . 
 
 ## Skeleton structure
 
@@ -773,11 +773,11 @@ Setting up the skeleton (menu bar, header, footer) is fairly simple.
     license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 ```
 
-It sets the menu, the footer and the header configurations. There are two sections: `blog`, that contains my articles, and `about`, a page with my work experiences.
+It sets the menu, the footer and the header configurations. There are two sections: `blog`, which contains my articles, and `about`, a page with my work experiences.
 
 ## Home page
 
-To setup the home page is necessary to save the avatar in folder `assets/images`.  The configurations are:
+To set up the home page is necessary to save the avatar in the folder `assets/images`.  The configurations are:
 ```toml
   [params.home]
     rss = 10
