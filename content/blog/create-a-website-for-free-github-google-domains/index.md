@@ -889,7 +889,7 @@ jobs:
 
 ## Setting up GitHub Pages and Google Domains
 
-First of all, you have to enable GitHub pages for your profile by going on your *profile settings* and enabling Pages. Then, you have to [configure an apex domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain), add your desired custom domain and save the configurations.
+First of all, you have to enable GitHub Pages for your profile by going to your *profile settings* and enabling Pages. Then, you have to [configure an apex domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain), add your desired custom domain and save the configurations.
 
 Now it's time to move to Google Domains and click on *Manage* to the website you want to use as a custom domain.
 

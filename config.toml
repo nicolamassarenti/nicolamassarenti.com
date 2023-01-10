@@ -33,7 +33,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 [author]
   name = "Nicola Massarenti"
-  email = "nicola.massarenti@gmail.com"
+  email = "nicola@nicolamassarenti.com"
   link = ""
 
 # Menu config
@@ -269,7 +269,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "nicola.massarenti@gmail.com"
+    Email = "nicola@nicolamassarenti.com"
     RSS = true # 
 
   #  Page global config
