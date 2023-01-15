@@ -462,7 +462,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Page SEO config
     [params.page.seo]
       # image URL
-      images = []
+      images = [ "/images/NicolaMassarenti.jpg"]
       # Publisher info
       [params.page.seo.publisher]
         name = ""
