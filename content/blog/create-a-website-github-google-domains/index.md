@@ -893,11 +893,11 @@ First of all, you have to enable GitHub Pages for your profile by going to your 
 
 Now it's time to move to Google Domains and click on *Manage* to the website you want to use as a custom domain.
 
-![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/create-a-website-for-free-github-google-domains/domains-1.png "")
+![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/create-a-website-github-google-domains/domains-1.png "")
 
 Then, add the Host Name records as shown in the picture below.
 
-![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/create-a-website-for-free-github-google-domains/domains-2.png "")
+![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/create-a-website-github-google-domains/domains-2.png "")
 
 ## Conclusions
 
