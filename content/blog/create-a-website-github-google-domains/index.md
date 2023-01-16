@@ -43,7 +43,7 @@ overwhelmed by the options. To name a few, you'll have to choose among:
 * Create a static site
 * Create a dynamic site
   
-![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/create-a-website-for-free-github-google-domains/which-path.png "")
+![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/create-a-website-github-google-domains/which-path.png "")
 
 In the beginning, I was considering developing the website with [[Vue.js]], which is easy to use and has an active community. I already know it a bit: in the past, I created a few dashboards (with vue.js and bootstrap), some login pages, and some upload pages. It would have been too much of an effort. It would have required a few days of coding, my design (colours, font, etc) would have been poor and, most importantly, there was the risk of falling into the rabbit hole of learning. I couldn't take this effort: I needed a website as soon as possible.
 On the other side, there was React, a popular framework with a steep learning curve. It may have been a good choice, but again, no time. I had to move on.
