@@ -1,12 +1,12 @@
 ---
 title: "Pair programming with ChatGPT - an unexpected path"
-date: 2023-01-24T13:00:00+01:00
-lastmod: 2023-01-24T13:00:00+01:00
+date: 2023-01-24T09:00:00+01:00
+lastmod: 2023-01-24T09:00:00+01:00
 draft: false
 author: "Nicola Massarenti"
 authorLink: ""
 description: "How ChatGPT showed me alternative solutions - like a Senior would do."
-images: [""]
+images: ["./robot-baby.png"]
 
 tags: ["blog", "ai", "chatgpt", "programming", "linux", "tools"]
 categories: ["blog"]
