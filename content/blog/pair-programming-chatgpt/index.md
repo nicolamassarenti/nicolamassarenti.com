@@ -28,7 +28,10 @@ ChatGPT is out there and everyone is talking about it. I have read tons of posts
 
 My story, here, is not about prompt engineering.
 
-![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/pair-programming-chatgpt/robot-baby.png "")
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/pair-programming-chatgpt/robot-baby.png" alt="">
+</p>
+
 
 It's about one unexpected outcome, about how, for the first time, I felt like I was getting help from a Senior peer: someone who understood my problem, someone located remotely (because I was chatting with him), someone that had more experience than me in Linux, someone I could learn from.
 
@@ -52,7 +55,11 @@ This means that I should repeat these three steps at least once a day. Every day
 
 My initial goal was to create a `fish` function that allowed me to type `obsidian` and, in turn, run the app image.
 
-![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/pair-programming-chatgpt/terminal-1.png "")
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/pair-programming-chatgpt/terminal-1.png" alt="">
+</p>
+
 
 This creates the following function (located in `~/.config/fish/functions/obsidian.fish`):
 ```shell
@@ -63,7 +70,9 @@ end
 
 However, this partially solved the my problem. I had to keep the terminal up and running. This is what the terminal was printing while Obsidian was running:
 
-![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/pair-programming-chatgpt/terminal-2.png "")
+<p align="center">
+<img src="https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/pair-programming-chatgpt/terminal-2.png" alt="">
+</p>
 
 So I thought: I just have to redirect the logs to `/dev/null` and it's done! I can close or use the terminal for other stuff! Great!
 
@@ -114,7 +123,9 @@ systemctl --user start obsidian.service
 
 This was my reaction:
 
-![](https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/pair-programming-chatgpt/reaction.png "")
+<p align="center">
+<img src="https://raw.githubusercontent.com/nicolamassarenti/nicolamassarenti.github.io/main/content/blog/pair-programming-chatgpt/reaction.png" alt="">
+</p>
 
 I was stunned. This **kind of interaction** it's exactly what a person expects from a Senior colleague. I **felt enriched** from the answer. It was great.
 
